@@ -17,7 +17,7 @@ function Home(props) {
         <Link to='/about'><button className='home-button'>More about me</button></Link>
       </section >
        <div className='partial-border'>
-        <img className='home-img' src='maimage.jpg' alt='Ahmad Razi' />
+        <img className='home-img' src='./images/maimage.jpg' alt='Ahmad Razi' />
        </div>
  </div>
       
